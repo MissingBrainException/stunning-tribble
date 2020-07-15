@@ -1,0 +1,1 @@
+print("7aja w5las")
